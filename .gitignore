@@ -1,0 +1,9 @@
+
+.idea/
+.vscode/
+.scannerwork/
+.DS_Store
+node_modules/
+**/dist/
+
+package-lock.json

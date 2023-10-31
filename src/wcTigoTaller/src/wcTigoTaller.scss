@@ -1,0 +1,20 @@
+@import '../../../shared/styles/utils.scss';
+
+.hidden {
+  display: none;
+}
+
+.show {
+  display: block;
+}
+
+.ml-general-interest {
+  width: 50% !important;
+}
+
+// CSS for MOBILE /* Para 800px */
+@media screen and (max-width: 820px) {
+  .ml-general-interest {
+    width: 100% !important;
+  }
+}

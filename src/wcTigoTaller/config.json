@@ -1,0 +1,13 @@
+{
+  "version": "0.0.1",
+  "name": "Wc Tigo Taller",
+  "tagHtml": "tigo-taller",
+  "description": "Web component Tigo Taller",
+  "testData": {
+    "urlBase": "https://randomuser.me"
+  },
+  "authData" : {
+    "user": "",
+    "password": ""
+  }
+}
